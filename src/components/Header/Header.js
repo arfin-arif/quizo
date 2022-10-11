@@ -21,7 +21,7 @@ function Header() {
                         >
                             <Offcanvas.Header closeButton>
                                 <Offcanvas.Title id={`offcanvasNavbarLabel-expand-${expand}`}>
-                                    Offcanvas
+                                    QUIZO
                                 </Offcanvas.Title>
                             </Offcanvas.Header>
                             <Offcanvas.Body>
