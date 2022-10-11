@@ -23,7 +23,7 @@ const Statistic = () => {
                 </ResponsiveContainer>
             </div>
 
-            <p className='mt-3'>Fig: SimpleLineChart</p>
+            <p className='mt-2'>Fig: SimpleLineChart</p>
         </div>
     );
 };
