@@ -28,10 +28,6 @@ const Quiz = ({ opt }) => {
                 <ToastContainer></ToastContainer>
             </div>
 
-
-
-
-
         </div>
     );
 };

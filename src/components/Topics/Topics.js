@@ -20,31 +20,7 @@ const Topics = ({ quiz }) => {
                     <Link to={`/quiz/${id}`}>  <button className='btn btn-primary'>Take Test</button></Link>
                 </div>
             </div>
-
-
         </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     );
 };
 
