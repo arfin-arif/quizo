@@ -2,7 +2,7 @@
 import { Button } from 'react-bootstrap';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import './App.css';
-// import Blog from './components/Blog/Blog';
+import Blog from './components/Blog/Blog';
 import Home from './components/Home/Home';
 // import Statistic from './components/Statistic/Statistic';
 import Main from './layout/Main';
@@ -20,12 +20,12 @@ function App() {
           element: <Home></Home>
 
         },
-        // {
-        //   path: '/blog',
+        {
+          path: '/blog',
 
-        //   element: <Blog></Blog>
+          element: <Blog></Blog>
 
-        // },
+        },
         // {
         //   path: '/statistic',
         //   loader: () => fetch('https://openapi.programming-hero.com/api/quiz'),
