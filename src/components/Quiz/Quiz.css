@@ -4,6 +4,11 @@
 
 }
 
+.icon {
+    text-align: right;
+    margin-right: 10px;
+}
+
 .options p {
 
     margin: 20px auto;
