@@ -1,0 +1,23 @@
+.quizess {
+    border-radius: 10px;
+    background-color: aliceblue;
+
+}
+
+.options p {
+
+    margin: 20px auto;
+    border: 1px solid gray;
+    border-radius: 5px;
+    /* height: 65%; */
+    width: 100%;
+
+}
+
+.options {
+
+    margin: 50px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 2px;
+}
