@@ -1,0 +1,36 @@
+.header {
+    height: 400px;
+    background-color: #FFE3DF;
+    margin-bottom: 50px;
+}
+
+.header img {
+    height: 400px;
+}
+
+
+
+.topics-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+}
+
+
+
+@media screen and (max-width:768px) {
+    .header-content {
+        flex-direction: column;
+    }
+
+    .header img {
+        height: 300px;
+    }
+
+    .topics-container {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 10px;
+    }
+
+}

@@ -1,0 +1,20 @@
+.topics-image {
+
+    background-color: aliceblue;
+}
+
+.topics {
+    background-color: rgb(96, 138, 175);
+}
+
+.card {
+    margin: 20px auto;
+}
+
+.testCard {
+    background-color: #96bed6;
+    height: 100px;
+    resize: both;
+    overflow: auto;
+    max-width: 100vw !important;
+}
