@@ -22,7 +22,11 @@
     font-family: 'Times New Roman', Times, serif;
 }
 
+<<<<<<< HEAD
 @media screen and (max-width:768px) {
+=======
+@media screen and (max-width:688px) {
+>>>>>>> 3108d7d6be4a200e2f1580d616a909a31a93f067
     .header-content {
         flex-direction: column;
     }
