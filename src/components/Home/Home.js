@@ -13,7 +13,7 @@ const Home = () => {
             <div className='header'>
                 <div className="header-content d-flex justify-content-between align-items-center">
                     <img className='img-fluid ' src="https://templates.seekviral.com/rifmanew/forms/Questionnaire%20Multistep%20Quiz/assets/images/side-img.png" alt="" />
-                    <h3 className='me-5 text-secondary'>Start Practicing Programming
+                    <h3 className='me-5 header-title text-secondary'>Start Practicing Programming
                         <br />Quiz Everyday With <span className='text-info'> QUIZO</span></h3>
                 </div>
             </div>

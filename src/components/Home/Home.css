@@ -1,6 +1,7 @@
 .header {
     height: 400px;
     background-color: #FFE3DF;
+    border-radius: 5px;
     margin-bottom: 50px;
 }
 
@@ -16,7 +17,10 @@
     grid-gap: 10px;
 }
 
-
+.header-title {
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+}
 
 @media screen and (max-width:768px) {
     .header-content {
